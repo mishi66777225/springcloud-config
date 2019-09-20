@@ -3,7 +3,7 @@ spring:
    active:
    - dev
 ---
-content: dev content 刷新出来看看
+content: dev content 刷新出来看看1111111111
 spring:
   profiles: dev
   application:
